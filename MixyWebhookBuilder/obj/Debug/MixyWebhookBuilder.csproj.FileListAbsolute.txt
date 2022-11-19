@@ -1,0 +1,8 @@
+/Users/macbookpro/RiderProjects/MixyWebhookBuilder/MixyWebhookBuilder/bin/Debug/MixyWebhookBuilder.dll
+/Users/macbookpro/RiderProjects/MixyWebhookBuilder/MixyWebhookBuilder/bin/Debug/MixyWebhookBuilder.pdb
+/Users/macbookpro/RiderProjects/MixyWebhookBuilder/MixyWebhookBuilder/bin/Debug/Newtonsoft.Json.dll
+/Users/macbookpro/RiderProjects/MixyWebhookBuilder/MixyWebhookBuilder/obj/Debug/MixyWebhookBuilder.csproj.AssemblyReference.cache
+/Users/macbookpro/RiderProjects/MixyWebhookBuilder/MixyWebhookBuilder/obj/Debug/MixyWebhookBuilder.csproj.CoreCompileInputs.cache
+/Users/macbookpro/RiderProjects/MixyWebhookBuilder/MixyWebhookBuilder/obj/Debug/MixyWebhookBuilder.csproj.CopyComplete
+/Users/macbookpro/RiderProjects/MixyWebhookBuilder/MixyWebhookBuilder/obj/Debug/MixyWebhookBuilder.dll
+/Users/macbookpro/RiderProjects/MixyWebhookBuilder/MixyWebhookBuilder/obj/Debug/MixyWebhookBuilder.pdb
